@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the related article."
+title: "FOLD BOD Model: Python code for the Fractional-Order Logistic Decay model of biochemical oxygen demand"
+version: 1.0.0
+date-released: 2026-10-13
+license: MIT
+authors:
+  - family-names: Devassy
+    given-names: Manu
+    affiliation: "Department of Civil Engineering, Government Engineering College Thrissur, Kerala, India"
+    email: manudevassy.2014@gmail.com
+keywords:
+  - biochemical oxygen demand
+  - BOD kinetics
+  - FOLD model
+  - fractional-order model
+  - wastewater treatment design
+preferred-citation:
+  type: article
+  title: "Improved BOD Modelling Using the FOLD Approach for Wastewater Treatment Design"
+  authors:
+    - family-names: Devassy
+      given-names: Manu
+  journal: "Water and Environment Journal"
+  year: 2026
+  doi: 10.1111/wej.70098

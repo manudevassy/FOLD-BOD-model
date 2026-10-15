@@ -1,0 +1,16 @@
+{
+  "title": "FOLD BOD Model: Python code for the Fractional-Order Logistic Decay model of biochemical oxygen demand",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Python implementation of the Fractional-Order Logistic Decay (FOLD) model for biochemical oxygen demand (BOD), introduced in Devassy (2026), Water and Environment Journal, https://doi.org/10.1111/wej.70098. Fits FOLD and the classical first-order model to any BOD time series, reports R2, RMSE, AIC and BIC, flags parameters at fitting limits, and computes activated-sludge and aerated-lagoon retention time, volume and blower power. Includes an example dataset, tests and a command-line tool.",
+  "creators": [
+    {"name": "Devassy, Manu",
+     "affiliation": "Department of Civil Engineering, Government Engineering College Thrissur, Kerala, India"}
+  ],
+  "keywords": ["biochemical oxygen demand", "BOD kinetics", "FOLD model", "fractional-order model", "wastewater treatment design", "Python"],
+  "license": "MIT",
+  "related_identifiers": [
+    {"identifier": "10.1111/wej.70098", "relation": "isSupplementTo", "scheme": "doi", "resource_type": "publication-article"},
+    {"identifier": "10.1016/j.apm.2013.07.013", "relation": "references", "scheme": "doi", "resource_type": "publication-article"}
+  ]
+}
